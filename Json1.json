@@ -6,7 +6,7 @@
     "foundedYear": 1947,
     "isActive": true,
     "championships": 17,
-    "imageUrl": "https://example.com/images/lakers.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/los-angeles-lakers-logo-png_seeklogo-546302.png",
     "conference": "Western",
     "players": ["LeBron James", "Anthony Davis", "Russell Westbrook"],
     "arena": {
@@ -15,7 +15,7 @@
       "location": "Los Angeles, California",
       "capacity": 19060,
       "openedYear": 1999,
-      "imageUrl": "https://example.com/images/crypto-arena.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/crypto.jpeg"
     }
   },
   {
@@ -25,7 +25,7 @@
     "foundedYear": 1946,
     "isActive": true,
     "championships": 7,
-    "imageUrl": "/images/warriors.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/warriors.png",
     "conference": "Western",
     "players": ["Stephen Curry", "Klay Thompson", "Draymond Green"],
     "arena": {
@@ -34,7 +34,7 @@
       "location": "San Francisco, California",
       "capacity": 18064,
       "openedYear": 2019,
-      "imageUrl": "https://example.com/images/chase-center.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/chase-center.jpg"
     }
   },
   {
@@ -44,7 +44,7 @@
     "foundedYear": 1966,
     "isActive": true,
     "championships": 6,
-    "imageUrl": "https://example.com/images/bulls.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/bulls.jpg",
     "conference": "Eastern",
     "players": ["DeMar DeRozan", "Zach LaVine", "Nikola Vucevic"],
     "arena": {
@@ -53,7 +53,7 @@
       "location": "Chicago, Illinois",
       "capacity": 20917,
       "openedYear": 1994,
-      "imageUrl": "https://example.com/images/united-center.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/united-center.jpg"
     }
   },
   {
@@ -63,7 +63,7 @@
     "foundedYear": 1946,
     "isActive": true,
     "championships": 17,
-    "imageUrl": "https://example.com/images/celtics.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/celtics.jpg",
     "conference": "Eastern",
     "players": ["Jayson Tatum", "Jaylen Brown", "Marcus Smart"],
     "arena": {
@@ -72,7 +72,7 @@
       "location": "Boston, Massachusetts",
       "capacity": 18624,
       "openedYear": 1995,
-      "imageUrl": "https://example.com/images/td-garden.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/td-garden.jpg"
     }
   },
   {
@@ -82,7 +82,7 @@
     "foundedYear": 1988,
     "isActive": true,
     "championships": 3,
-    "imageUrl": "https://example.com/images/heat.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/heat.jpg",
     "conference": "Eastern",
     "players": ["Jimmy Butler", "Bam Adebayo", "Kyle Lowry"],
     "arena": {
@@ -91,7 +91,7 @@
       "location": "Miami, Florida",
       "capacity": 19600,
       "openedYear": 1999,
-      "imageUrl": "https://example.com/images/ftx-arena.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/ftx-arena.jpg"
     }
   },
   {
@@ -101,7 +101,7 @@
     "foundedYear": 1967,
     "isActive": true,
     "championships": 0,
-    "imageUrl": "https://example.com/images/nets.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/nets.jpg",
     "conference": "Eastern",
     "players": ["Kevin Durant", "Kyrie Irving", "Ben Simmons"],
     "arena": {
@@ -110,7 +110,7 @@
       "location": "Brooklyn, New York",
       "capacity": 17732,
       "openedYear": 2012,
-      "imageUrl": "https://example.com/images/barclays-center.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/barclays-center.jpg"
     }
   },
   {
@@ -120,7 +120,7 @@
     "foundedYear": 1968,
     "isActive": true,
     "championships": 2,
-    "imageUrl": "https://example.com/images/bucks.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/bucks.jpg",
     "conference": "Eastern",
     "players": ["Giannis Antetokounmpo", "Khris Middleton", "Jrue Holiday"],
     "arena": {
@@ -129,7 +129,7 @@
       "location": "Milwaukee, Wisconsin",
       "capacity": 17500,
       "openedYear": 2018,
-      "imageUrl": "https://example.com/images/fiserv-forum.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/fiserv-forum.jpg"
     }
   },
   {
@@ -139,7 +139,7 @@
     "foundedYear": 1968,
     "isActive": true,
     "championships": 0,
-    "imageUrl": "https://example.com/images/suns.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/suns.jpg",
     "conference": "Western",
     "players": ["Devin Booker", "Chris Paul", "Deandre Ayton"],
     "arena": {
@@ -148,7 +148,7 @@
       "location": "Phoenix, Arizona",
       "capacity": 18055,
       "openedYear": 1992,
-      "imageUrl": "https://example.com/images/footprint-center.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/footprint-center.jpg"
     }
   },
   {
@@ -158,7 +158,7 @@
     "foundedYear": 1980,
     "isActive": true,
     "championships": 1,
-    "imageUrl": "https://example.com/images/mavericks.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/mavericks.jpg",
     "conference": "Western",
     "players": ["Luka Dončić", "Kristaps Porziņģis", "Tim Hardaway Jr."],
     "arena": {
@@ -167,7 +167,7 @@
       "location": "Dallas, Texas",
       "capacity": 19200,
       "openedYear": 2001,
-      "imageUrl": "https://example.com/images/american-airlines-center.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/american-airlines-center.jpg"
     }
   },
   {
@@ -177,7 +177,7 @@
     "foundedYear": 1995,
     "isActive": true,
     "championships": 1,
-    "imageUrl": "https://example.com/images/raptors.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/raptors.jpg",
     "conference": "Eastern",
     "players": ["Pascal Siakam", "Fred VanVleet", "OG Anunoby"],
     "arena": {
@@ -186,7 +186,7 @@
       "location": "Toronto, Ontario",
       "capacity": 19800,
       "openedYear": 1999,
-      "imageUrl": "https://example.com/images/scotiabank-arena.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/scotiabank-arena.jpg"
     }
   }
 ]

@@ -5,15 +5,15 @@
     "location": "Los Angeles, California",
     "capacity": 19060,
     "openedYear": 1999,
-    "imageUrl": "https://github.com/mohammedbouzidi19/project-JSON.git/images/crypto.jpeg"
-  },
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/crypto.jpeg"
+  }, 
   {
     "id": "ARENA-002",
     "name": "Chase Center",
     "location": "San Francisco, California",
     "capacity": 18064,
     "openedYear": 2019,
-    "imageUrl": "https://example.com/images/chase-center.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/chase-center.jpg"
   },
   {
     "id": "ARENA-003",
@@ -21,7 +21,7 @@
     "location": "Chicago, Illinois",
     "capacity": 20917,
     "openedYear": 1994,
-    "imageUrl": "https://example.com/images/united-center.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/united-center.jpg"
   },
   {
     "id": "ARENA-004",
@@ -29,7 +29,7 @@
     "location": "Boston, Massachusetts",
     "capacity": 18624,
     "openedYear": 1995,
-    "imageUrl": "https://example.com/images/td-garden.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/td-garden.jpg"
   },
   {
     "id": "ARENA-005",
@@ -37,7 +37,7 @@
     "location": "Miami, Florida",
     "capacity": 19600,
     "openedYear": 1999,
-    "imageUrl": "https://example.com/images/ftx-arena.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/ftx-arena.jpg"
   },
   {
     "id": "ARENA-006",
@@ -45,7 +45,7 @@
     "location": "Brooklyn, New York",
     "capacity": 17732,
     "openedYear": 2012,
-    "imageUrl": "https://example.com/images/barclays-center.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/barclays-center.jpg"
   },
   {
     "id": "ARENA-007",
@@ -53,7 +53,7 @@
     "location": "Milwaukee, Wisconsin",
     "capacity": 17500,
     "openedYear": 2018,
-    "imageUrl": "https://example.com/images/fiserv-forum.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/fiserv-forum.jpg"
   },
   {
     "id": "ARENA-008",
@@ -61,7 +61,7 @@
     "location": "Phoenix, Arizona",
     "capacity": 18055,
     "openedYear": 1992,
-    "imageUrl": "https://example.com/images/footprint-center.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/footprint-center.jpg"
   },
   {
     "id": "ARENA-009",
@@ -69,7 +69,7 @@
     "location": "Dallas, Texas",
     "capacity": 19200,
     "openedYear": 2001,
-    "imageUrl": "https://example.com/images/american-airlines-center.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/american-airlines-center.jpg"
   },
   {
     "id": "ARENA-010",
@@ -77,6 +77,6 @@
     "location": "Toronto, Ontario",
     "capacity": 19800,
     "openedYear": 1999,
-    "imageUrl": "https://example.com/images/scotiabank-arena.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/scotiabank-arena.jpg"
   }
 ]
