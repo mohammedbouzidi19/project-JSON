@@ -44,7 +44,7 @@
     "foundedYear": 1966,
     "isActive": true,
     "championships": 6,
-    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/bulls.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/bulls.png",
     "conference": "Eastern",
     "players": ["DeMar DeRozan", "Zach LaVine", "Nikola Vucevic"],
     "arena": {
@@ -82,7 +82,7 @@
     "foundedYear": 1988,
     "isActive": true,
     "championships": 3,
-    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/heat.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/heat_.png",
     "conference": "Eastern",
     "players": ["Jimmy Butler", "Bam Adebayo", "Kyle Lowry"],
     "arena": {
