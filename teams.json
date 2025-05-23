@@ -63,7 +63,7 @@
     "foundedYear": 1946,
     "isActive": true,
     "championships": 17,
-    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/Boston_Celtics.png",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/Boston.png",
     "conference": "Eastern",
     "players": ["Jayson Tatum", "Jaylen Brown", "Marcus Smart"],
     "arena": {
@@ -82,7 +82,7 @@
     "foundedYear": 1988,
     "isActive": true,
     "championships": 3,
-    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/heat_.png",
+    "imageUrl": "https://raw.githubusercontent.com/mohammedbouzidi19/project-JSON/refs/heads/main/images/heat.png",
     "conference": "Eastern",
     "players": ["Jimmy Butler", "Bam Adebayo", "Kyle Lowry"],
     "arena": {
